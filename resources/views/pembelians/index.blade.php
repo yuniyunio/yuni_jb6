@@ -18,7 +18,7 @@
                     <hr>
                 </div>
                 <div class="card">
-                    <div class="card-header text-center"> Pembelian</div>
+                    <div class="card-header text-center">Data Pembelian</div>
 
                     <div class="card-body">
                         <table class="table">
