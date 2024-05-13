@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h1 class="text-center my-4" style="color: #47b5ff; font-weight: bolder">ELECTRONIK STORE</h1>
+                    <a href="/" style="text-decoration: none"><h1 class="text-center my-4" style="color: #47b5ff; font-weight: bolder">ELECTRONIK STORE</h1></a>
                     <hr>
                 </div>
                 <div class="card">
