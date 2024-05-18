@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <title>ElektronikStore</title>
+    <title>Toko Sembako</title>
 </head>
 
 <body>
@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <a href="/" style="text-decoration: none"><h1 class="text-center my-4" style="color: #47b5ff; font-weight: bolder">ELECTRONIK STORE</h1></a>
+                    <a href="/" style="text-decoration: none"><h1 class="text-center my-4" style="color: #47b5ff; font-weight: bolder">TOKO SEMBAKO</h1></a>
                     <hr>
                 </div>
                 <div class="card">
@@ -28,7 +28,7 @@
                                     <th>ID Pembelian</th>
                                     <th>ID Pembeli</th>
                                     <th>Nama Produk</th>
-                                    <th>Biaya</th>
+                                    <th>Harga</th>
                                     <th>Jumlah Pembelian</th>
                                     <th>ID Petugas</th>
                                     <th>Aksi</th>

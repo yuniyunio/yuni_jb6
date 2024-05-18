@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <title>ElektronikStore | Create</title>
+    <title>Toko Sembako | Create</title>
 </head>
 
 <body>
@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-8 offset-md-2">
                 <div class="card">
-                    <div class="card-header">Buat Data Baru</div>
+                    <div class="card-header">Buat Data Sembako</div>
                     <div class="card-body">
                         <form action="{{ route('pembelians.store') }}" method="POST">
                             @csrf
@@ -27,7 +27,7 @@
                                 <input type="date" name="tanggal_pembelian" class="form-control" required>
                             </div>
                             <div class="form-group">
-                                <label for="biaya">Biaya:</label>
+                                <label for="biaya">Harga:</label>
                                 <input type="number" name="biaya" class="form-control" required>
                             </div>
                             <div class="form-group">

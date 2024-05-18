@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <title>ElektronikStore | Edit</title>
+    <title>Toko Sembako | Edit</title>
 </head>
 
 <body>
@@ -31,7 +31,7 @@
                                     value="{{ $pembelians->tanggal_pembelian }}" required>
                             </div>
                             <div class="form-group">
-                                <label for="biaya">Biaya:</label>
+                                <label for="biaya">Harga:</label>
                                 <input type="text" name="biaya" class="form-control"
                                     value="{{ $pembelians->biaya }}" required>
                             </div>
